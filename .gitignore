@@ -42,3 +42,6 @@ config.json
 
 # Logs
 *.log
+
+# Planning (contains local paths)
+PLAN.md
